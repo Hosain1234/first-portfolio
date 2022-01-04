@@ -35,7 +35,8 @@ p{
     border-radius: 5px;
 }
 .experience-item{
-    box-shadow: 10px 10px 40px black;
+    box-shadow: 5px 6px 40px rgb(122, 118, 118);
+    border-radius: 15px;
     width: 40%;
     margin: 0 5%;
     padding: 2%;
